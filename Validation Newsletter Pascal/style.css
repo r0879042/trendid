@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
---Orange-peach:  #e77d44e3;
+--Orange-peach:  #e7630be3;
 --Jost:'Jost', sans-serif;
---Honeydew: #e77d44e3;
+--Light-peach: #ecc7b4e3;
 
 
 }
@@ -19,7 +19,7 @@
 body {
     font-family: var(--Jost);
     font-size: 1.2rem;
-    background: var(--Honeydew);
+    background: var(--Light-peach);
 }
 
 .main-wrapper {
@@ -32,7 +32,7 @@ body {
 
 .div-left {
 
-    background: var(--Orange-Peach);
+    background: var(--Orange-peach);
     padding: 3.6rex 0;
     display: flex;
     align-items: center;
@@ -61,7 +61,7 @@ body {
     top: -10px;
     width: 12px;
     height: 32px;
-    background: var(--Irish-blue);
+    background: var(--Orange-Peach);
     border: none;
     color: #fff;
     font-size: 1.4rem;
@@ -140,7 +140,7 @@ body {
 }
 
 #submit-btn:hover {
-    background: #0098d0;
+    background: #d1650d;
 }
 .div-right span {
     font-size: 1rem;
